@@ -14,3 +14,4 @@
 * Для TTV в исходном анализе учитываются только пользователи, у которых нашлось событие homework_completed. Поэтому TTV - дополнительная метрика среди завершивших хотя бы одно задание, а не среди всей выборки.
 * Для воспроизводимого запуска в файлы ноутбука надо положить ab_test_users_groups.csv и ab_test_events.csv.
 
+Все этапы исследования можно изучить по ссылке: https://colab.research.google.com/drive/1R2wB8lXG3BQs0M8hY3RxHbxVlURNxGNz?usp=sharing
